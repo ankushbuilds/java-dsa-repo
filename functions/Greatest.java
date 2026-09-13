@@ -1,4 +1,4 @@
-package functions;
+
 import java.util.Scanner;
 public class Greatest {
     public static int findGreatest(int a , int b){
