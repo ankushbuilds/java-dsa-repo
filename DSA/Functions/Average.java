@@ -1,4 +1,4 @@
-package functions;
+
 import java.util.Scanner;
 public class Average {
  public static float calculateAverage(float a, float b, float c){
